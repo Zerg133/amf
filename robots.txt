@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zerg133.github.io/amf/sitemap.xml
